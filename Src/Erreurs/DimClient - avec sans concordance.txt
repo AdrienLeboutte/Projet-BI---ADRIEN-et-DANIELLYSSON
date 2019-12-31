@@ -1,0 +1,2 @@
+FISSA,FISSA Fabrica Inter. Salchichas S.A.,Diego Roel,Accounting Manager,C/ Moralzarzal, 86,Madrid,non trouvé,28034,spain,(91) 555 94 44,(91) 555 55 93,False
+PARIS,Paris spécialités,Marie Bertrand,Owner,265, boulevard Charonne,Paris,non trouvé,75012,france,(1) 42.34.22.66,(1) 42.34.22.77,False
